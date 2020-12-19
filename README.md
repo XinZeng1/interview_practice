@@ -1,2 +1,2 @@
 # interview_practice
-用于记录面试题及相关的练习
+用于记录Python相关工作的面试题及相关的答案和练习
